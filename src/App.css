@@ -1,0 +1,17 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.banner{
+  height: 80vh;
+  width: 100%;
+  border: 2px solid green;
+  position: relative;
+  background: url('https: //as2.ftcdn.net/v2/jpg/03/08/44/53/1000_F_308445331_ZZinysRse5xOZacNTnoQqG24TAy7ftZ5.jpg');
+}
+.card{
+  position: absolute;
+  top: 30%;
+  left: 10%;
+}
